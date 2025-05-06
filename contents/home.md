@@ -2,15 +2,26 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+副研究员，博士生导师
 
 #### Email
-sli[at]cumt.edu.cn
+xuyang_pucri@bjmu.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 教育经历
+北京大学医学博士（2018）\
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+北京大学理学硕士（2015）\
 
+北京大学理学/经济学学士（2013）
+
+#### 研究领域
+药械的真实世界安全性有效性评价
+
+#### 工作经历
+2023.08至今     北京大学-药事管理与临床药学系，副研究员
+
+2021.06-2023.07  北京大学-临床研究所，副研究员
+
+2019.02-2021.02  瑞典卡罗琳斯卡学院-临床流行病与生物统计学系，博士后
+
+2018.09-2019.01  北京大学-健康医疗大数据国家研究院，助理研究员
